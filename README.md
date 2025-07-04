@@ -42,7 +42,7 @@ How to Run
 1. Clone the repository:
 
 ```bash
-git clone <repo-url>
+git clone <https://github.com/HassanHashmi39/ScdProject.git>
 ```
 
 2. Open the project in Eclipse or any Java IDE.
